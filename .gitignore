@@ -1,0 +1,12 @@
+# Compiled executable
+text_editor
+
+# Object files
+*.o
+
+# Debug files
+*.out
+
+# Temporary files
+*.tmp
+*~
